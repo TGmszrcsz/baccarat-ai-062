@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 061 篇 - 百家乐Ai预测分析工具：区分分析记录与投注记录的用途](https://github.com/TGmszrcsz/baccarat-ai-061) ｜ [下一篇：第 063 篇 - 百家乐Ai预测分析工具：分页列表如何核对完整观察区间](https://github.com/TGmszrcsz/baccarat-ai-063)
+
+<!-- article-chain:end -->
+
 额度页面出现增加，被用作分析能力的直接证据。本篇围绕“额度变动为何不能单独证明模型效果”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
